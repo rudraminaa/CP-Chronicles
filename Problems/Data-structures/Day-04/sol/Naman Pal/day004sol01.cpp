@@ -1,6 +1,5 @@
 // Submission Link: https://codeforces.com/contest/1997/submission/355835686
 
-
 /*
 So first I made the RBS with minimmum cost by putting closing bracket as soon as we get a opening bracket before it, i.e., closing bracket as early as 
 possible(greedy appraoch). After getting corect bracket sequence I put the indexes of '(' in vector o and indexes of ')' in vector c in order they occur. Both 
