@@ -79,6 +79,6 @@
 |Shambhu Chadana | Zarxeon | IIIT ALLAHABAD
 | Deepali Kumari | deepali-kumari-iitp | IIT Patna |
 | Chithra R | Chithra582 | CIT |
-
+| YOGESH M | yogesh4216 | CIT Chennai |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
